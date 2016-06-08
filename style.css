@@ -1,12 +1,27 @@
+@media only screen and (max-width: 500px) {
+    h3 {
+        font-size: 16px;;
+    }
+    img{
+      width: 75px;
+      height: 110px;
+    }
+}
+
 .movie_poster{
   width: 150px;
   height: 221px;
-}
 
+
+}
+.images{
+  margin-left: 0 auto;
+  text-align: center;
+}
 #container{
 
 }
 
 #center_column{
-  
+
 }
